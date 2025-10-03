@@ -19,7 +19,7 @@ mkdir path/to/.config/tmux/plugins
 
 ```
 cd path/to/.config/tmux/plugins
-clone git@github.com:tmux-plugins/tpm.git
+git clone git@github.com:tmux-plugins/tpm.git
 ```
 
 5. Install plugins from tmux
